@@ -11,6 +11,7 @@
  Bundle 'fugitive.vim'
  Bundle 'scrooloose/nerdtree'
  Bundle 'scrooloose/syntastic'
+ Bundle ' Powerline'
  
 
  filetype plugin indent on
