@@ -4,6 +4,7 @@ dotvim
 git
 ===
 git submodule add
+
 git submodule update
 
 vundle
